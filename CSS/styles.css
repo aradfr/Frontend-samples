@@ -1,0 +1,83 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  padding: 3% 15%;
+  background-color: #FFFDFA;
+  margin: 0;
+}
+
+.main {
+  padding: 0;
+  border-style: none;
+  border-right: 1rem;
+}
+.mainimg {
+  margin-bottom: 1rem;
+}
+.row {
+  margin: 0;
+  padding: 0;
+}
+.navmenu {
+  padding-bottom: 2rem;
+}
+.main-header {
+  font-family: "Inter",sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.2;
+}
+.readmorebut {
+  font-family: "Inter",sans-serif;
+  color: #5D5F79;
+}
+.buttonreadmore {
+  background-color: #F15E50;
+  border-radius: 0;
+  color: #FFFDFA;
+  width: 60%;
+  letter-spacing: 0.2rem;
+  font-size: 0.8rem;
+  height: 20%;
+  margin-top: 2.3rem;
+}
+.side {
+  background-color: #000019;
+}
+.sideheader {
+  color: #E9AB53;
+  font-family: "Inter",sans-serif;
+  padding-bottom: 1rem;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+.sidesubheader {
+  color: #FFFDFA;
+  font-family: "Inter",sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+
+}
+.sidepar {
+  color: #AFAFAF;
+  font-size: 0.85rem;
+}
+.sidecontent {
+  padding: 1.3rem 1rem;
+}
+hr {
+  border-top: 0.2rem;
+  border-style: solid;
+  border-color: #AFAFAF;
+  margin: 2.5rem auto;
+  border-radius: 200px;
+}
+.bot {
+  padding-top: 2rem;
+}
+.botimg {
+  float: left;
+  padding : 0 1rem 1rem 0;
+}
